@@ -1,6 +1,6 @@
 {
   "name": "contracts-json-example",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "an example of a package with a CONTRACTS.json file",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/contracts-json-example.js",
